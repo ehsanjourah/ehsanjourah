@@ -1,7 +1,7 @@
 # Hi 👋 I'm Muhammad Ehsan
 ## Fullstack Laravel Developer
 - 🔭 I’m currently working on <strong>Full Stack Projects using Php Laravel</strong>
-- 🧑‍💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/muhammadehsan66)
+- 🧑‍💼 Available for freelance work on [<img src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg" height="30" />](https://www.upwork.com/freelancers/muhammadehsan66)
 <!--
 **ehsanjourah/ehsanjourah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
